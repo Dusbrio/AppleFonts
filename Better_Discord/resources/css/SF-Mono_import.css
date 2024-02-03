@@ -1,13 +1,13 @@
 /*Heavy*/
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Heavy.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-Heavy.otf');
 	font-weight: 900;
 	font-style: normal;
 }
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-HeavyItalic.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-HeavyItalic.otf');
 	font-weight: 900;
 	font-style: italic;
 }
@@ -15,13 +15,13 @@
 /*Bold*/
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Bold.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-Bold.otf');
 	font-weight: 700;
 	font-style: normal;
 }
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-BoldItalic.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-BoldItalic.otf');
 	font-weight: 700;
 	font-style: italic;
 }
@@ -29,13 +29,13 @@
 /*Semi Bold*/
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Semibold.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-Semibold.otf');
 	font-weight: 600;
 	font-style: normal;
 }
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-SemiboldItalic.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-SemiboldItalic.otf');
 	font-weight: 600;
 	font-style: italic;
 }
@@ -43,13 +43,13 @@
 /*Medium*/
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Medium.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-Medium.otf');
 	font-weight: 500;
 	font-style: normal;
 }
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-MediumItalic.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-MediumItalic.otf');
 	font-weight: 500;
 	font-style: italic;
 }
@@ -57,13 +57,13 @@
 /*Regular*/
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Regular.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-Regular.otf');
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-RegularItalic.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-RegularItalic.otf');
 	font-weight: 400;
 	font-style: italic;
 }
@@ -71,13 +71,13 @@
 /*Light*/
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Light.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-Light.otf');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: "SF Mono";
-	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-LightItalic.otf');
+	src: url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/fonts/SF%20Mono/SF-Mono-LightItalic.otf');
 	font-weight: 300;
 	font-style: italic;
 }
