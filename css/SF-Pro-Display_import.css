@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "SF Pro Display";
+  src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Regular.otf');
+  src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Black.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-BlackItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Bold.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-BoldItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Heavy.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-HeavyItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Light.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-LightItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Medium.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-MediumItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Regular.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-RegularItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Semibold.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-SemiboldItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Thin.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-ThinItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Ultralight.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-UltralightItalic.otf');
+  font-weight: 100;
+  font-style: normal
+}

@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "SF Pro Text";
+  src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Regular.otf');
+  src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Black.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-BlackItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Bold.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-BoldItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Heavy.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-HeavyItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Light.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-LightItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Medium.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-MediumItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Regular.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-RegularItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Semibold.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-SemiboldItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Thin.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-ThinItalic.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-Ultralight.otf'),
+	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Text/SF-Pro-Text-UltralightItalic.otf');
+  font-weight: 100;
+  font-style: normal
+}
