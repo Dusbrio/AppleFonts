@@ -1,0 +1,14 @@
+/**
+ * @name Emoji Fix
+ * @author Dusbrio
+ * @description This addon fixes emoji display on PC.
+ * @version 1.0
+ */
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji');
+ 
+ :root {
+    --font-primary: "Noto Color Emoji";
+    --font-display: "Noto Color Emoji";
+    --font-headline: "Noto Color Emoji";
+}

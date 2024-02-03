@@ -1,0 +1,17 @@
+/**
+ * @name Apple font (San Francisco)
+ * @author Dusbrio
+ * @description This is addon that replaces default font with Apple's one.
+ * @version 1.0
+ */
+
+@import url('https://dusbrio.github.io/AppleFonts/main/css/SF-Mono_import.css');
+@import url('https://dusbrio.github.io/AppleFonts/main/css/SF-Pro-Display_import.css');
+@import url('https://dusbrio.github.io/AppleFonts/main/css/SF-Pro-Text_import.css');
+
+:root {
+    --font-primary: "SF Pro Text";
+    --font-display: "SF Pro Display";
+    --font-headline: "SF Pro Display";
+    --font-code: "SF Mono";
+}
