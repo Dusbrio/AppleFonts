@@ -5,9 +5,9 @@
  * @version 1.0
  */
 
-@import url('https://dusbrio.github.io/AppleFonts/main/css/SF-Mono_import.css');
-@import url('https://dusbrio.github.io/AppleFonts/main/css/SF-Pro-Display_import.css');
-@import url('https://dusbrio.github.io/AppleFonts/main/css/SF-Pro-Text_import.css');
+@import url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/css/SF-Mono_import.css');
+@import url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/css/SF-Pro-Display_import.css');
+@import url('https://dusbrio.github.io/BetterDiscord/main/Better_Discord/resources/css/SF-Pro-Text_import.css');
 
 :root {
     --font-primary: "SF Pro Text";
