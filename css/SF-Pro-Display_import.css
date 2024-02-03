@@ -1,24 +1,125 @@
+/*Ultra Black*/
 @font-face {
-  font-family: "SF Pro Display";
-  src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Regular.otf');
-  src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Black.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-BlackItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Bold.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-BoldItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Heavy.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-HeavyItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Light.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-LightItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Medium.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-MediumItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Regular.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-RegularItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Semibold.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-SemiboldItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Thin.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-ThinItalic.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Ultralight.otf'),
-	url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-UltralightItalic.otf');
-  font-weight: 100;
-  font-style: normal
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Black.otf');
+	font-weight: 950;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-BlackItalic.otf');
+	font-weight: 950;
+	font-style: italic;
+}
+
+/*Heavy*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Heavy.otf');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-HeavyItalic.otf');
+	font-weight: 900;
+	font-style: italic;
+}
+
+/*Bold*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Bold.otf');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-BoldItalic.otf');
+	font-weight: 700;
+	font-style: italic;
+}
+
+/*Semi Bold*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Semibold.otf');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-SemiboldItalic.otf');
+	font-weight: 600;
+	font-style: italic;
+}
+
+/*Medium*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Medium.otf');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-MediumItalic.otf');
+	font-weight: 500;
+	font-style: italic;
+}
+
+/*Regular*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Regular.otf');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-RegularItalic.otf');
+	font-weight: 400;
+	font-style: italic;
+}
+
+/*Light*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Light.otf');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-LightItalic.otf');
+	font-weight: 300;
+	font-style: italic;
+}
+
+/*Ultra Light*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Ultralight.otf');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-UltralightItalic.otf');
+	font-weight: 200;
+	font-style: italic;
+}
+
+/*Thin*/
+@font-face {
+	font-family: "SF Pro Display";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-Thin.otf');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: "SF Pro Text";
+	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Pro%20Display/SF-Pro-Display-ThinItalic.otf');
+	font-weight: 100;
+	font-style: italic;
 }

@@ -1,3 +1,4 @@
+/*Heavy*/
 @font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Heavy.otf');
@@ -10,6 +11,8 @@
 	font-weight: 900;
 	font-style: italic;
 }
+
+/*Bold*/
 @font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Bold.otf');
@@ -22,6 +25,8 @@
 	font-weight: 700;
 	font-style: italic;
 }
+
+/*Semi Bold*/
 @font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Semibold.otf');
@@ -34,6 +39,8 @@
 	font-weight: 600;
 	font-style: italic;
 }
+
+/*Medium*/
 @font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Medium.otf');
@@ -46,6 +53,8 @@
 	font-weight: 500;
 	font-style: italic;
 }
+
+/*Regular*/
 @font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Regular.otf');
@@ -58,12 +67,15 @@
 	font-weight: 400;
 	font-style: italic;
 }
+
+/*Light*/
 @font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-Light.otf');
 	font-weight: 300;
 	font-style: normal;
-}@font-face {
+}
+@font-face {
 	font-family: "SF Mono";
 	src: url('https://dusbrio.github.io/AppleFonts/main/fonts/SF%20Mono/SF-Mono-LightItalic.otf');
 	font-weight: 300;
